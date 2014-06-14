@@ -1,4 +1,6 @@
-my404Page
+我的404页面
 =========
 
-Just a simple custom 404 error page
+随手构了一个404页面，顺便学习用用github
+
+附上页面[演示地址](http://nornor.net/404)
